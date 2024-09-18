@@ -1,0 +1,11 @@
+{
+"replace": false,
+"values": [
+    "storagedrawers:keybutton_drawer",
+    "storagedrawers:keybutton_concealment",
+    "storagedrawers:keybutton_quantify",
+    "storagedrawers:quantify_key",
+    "storagedrawers:controller",
+    "storagedrawers:controller_io"
+  ]
+}

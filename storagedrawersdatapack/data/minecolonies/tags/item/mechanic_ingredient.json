@@ -1,0 +1,9 @@
+{
+"replace": false,
+"values": [
+    "storagedrawers:drawer_key",
+    "storagedrawers:quantify_key",
+    "storagedrawers:shroud_key",
+    "storagedrawers:upgrade_template"
+  ]
+}
