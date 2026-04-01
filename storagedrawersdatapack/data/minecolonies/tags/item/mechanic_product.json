@@ -6,6 +6,9 @@
     "storagedrawers:keybutton_quantify",
     "storagedrawers:quantify_key",
     "storagedrawers:controller",
+    "storagedrawers:magnet_upgrade",
+    "storagedrawers:magnet_upgrade_2",
+    "storagedrawers:magnet_upgrade_3",
     "storagedrawers:controller_io"
   ]
 }
